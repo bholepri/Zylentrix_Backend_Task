@@ -22,7 +22,7 @@ This project is a backend task for Zylentrix, designed to manage user data with 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Zylentrix_Backend_Task.git
+   git clone https://github.com/bholepri/Zylentrix_Backend_Task.git
    ```
 2. Navigate to the project directory:
    ```sh
